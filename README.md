@@ -14,5 +14,4 @@ Proxy Support: Allows routing requests through an HTTP proxy (e.g., Burp Suite).
 
 Custom Block Detection: Lets users specify a keyword to identify WAF blocking responses.
 
-Usage
-python script.py
+
